@@ -1,2 +1,2 @@
 # trabalho-fcg
-Trabalho Final de Fundamentos de Computação Gráfica
+UFRGS - Trabalho Final de Fundamentos de Computação Gráfica
